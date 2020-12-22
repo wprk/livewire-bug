@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":186:{a:2:{s:7:"defects";a:1:{s:57:"Tests\Feature\Campaigns\CreateTest::can_create_a_campaign";i:3;}s:5:"times";a:1:{s:57:"Tests\Feature\Campaigns\CreateTest::can_create_a_campaign";d:0.183;}}}
